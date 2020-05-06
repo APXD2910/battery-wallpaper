@@ -23,13 +23,13 @@ Simple bash script to set an animated battery as desktop wallpaper. It's shows c
 ### How to install
 Follow the steps below (You can run `test.sh` to test it before installing it on your system) -
 
-+ Install *acpi*, *xrandr*, *hsetroot* or *wallpaper* 
++ Install *acpi*, *xrandr*, *feh* or *wallpaper* 
 ```
 # On Archlinux
-sudo pacman -Sy acpi xorg-xrandr hsetroot
+sudo pacman -Sy acpi xorg-xrandr feh
 
 # On Ubuntu or Debian
-sudo apt-get install acpi x11-xserver-utils hsetroot
+sudo apt-get install acpi x11-xserver-utils feh
 
 # On MacOS
 brew install wallpaper
@@ -72,13 +72,12 @@ faded  industrial  mechanical  paper  pixel_city  slash  space
 + Stop animation when battery is fully charged.
 + When not charging, icon changes according to battery percentage.
 + Support dual or more batteries.
-+ Tested on - **WM:** *Openbox*, *i3wm*, *Fluxbox*, *Fvwm*, *Swaywm* & **DE:** *Pantheon*, *Gnome(ubuntu)*, *Deepin*, *Cinnamon*, *XFCE*, *LXDE*, *MATE*.
++ User can add their own icons/styles/wallpapers.
++ Tested on - **WM:** *Openbox*, *i3wm*, *bspwm*, *awesomewm*, *Fluxbox*, *Fvwm*, *Swaywm* & **DE:** *KDE(neon)*, *Pantheon*, *Gnome(ubuntu, pop_os)*, *Deepin*, *Cinnamon*, *XFCE*, *LXDE*, *MATE*.
 
 ### Previews
 
 <details><summary>Charging</summary>
-
-#### Charging
 
 |Cup|Paper|Cartoon|Faded|Colours|Slash|Industrial|
 |--|--|--|--|--|--|--|
@@ -91,8 +90,6 @@ faded  industrial  mechanical  paper  pixel_city  slash  space
 </details>
 
 <details><summary>Discharging</summary>
-
-#### Discharging
 
 `Cup`
 
@@ -158,8 +155,6 @@ faded  industrial  mechanical  paper  pixel_city  slash  space
 
 <details><summary>Fully Charged</summary>
 
-#### Fully Charged
-
 |Cup|Paper|Cartoon|Faded|Colours|
 |--|--|--|--|--|
 |![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/0.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/4.png)|
@@ -178,7 +173,6 @@ faded  industrial  mechanical  paper  pixel_city  slash  space
 </p>
 
 ### FYI
-+ Currently, KDE is not supported.
 + If you can improve it, you're welcome.
-+ You can add ***bwall -option &*** to your wm autostart file to set it as wallpaper after login.
++ You can add ***bwall -s `style` &*** to your wm autostart file to set it as wallpaper after login.
 + Have Fun!
