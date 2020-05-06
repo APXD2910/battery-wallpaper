@@ -49,15 +49,20 @@ chmod +x install.sh
 ```
 $ bwall
 
-Battery Wallpaper V1.0
+Battery Wallpaper V2.0
+Set desktop background according to battery percentage, with charging animation.
 Developed By - Aditya Shakya (@adi1090x)
 
-Available options:
--cartoon	-colours	-cup_black
--cup_dark	-egg		-faded
--industrial	-mechanical	-paper
--slash		-bonsai		-city
--city_alt	-pixel_city	-space
+usage: bwall [-s] style [-d] delay [-h]
+
+-s  style     name of icon/bg style.
+-d  delay     set charging animation delay.
+-h  help      show this usage/help message.
+
+Styles Dir: /usr/share/battery-wallpaper/images
+
+Available styles:  bonsai  cartoon  city  city_alt  colours  cup_black  cup_dark  egg
+faded  industrial  mechanical  paper  pixel_city  slash  space  
 ```
 
 ### Features

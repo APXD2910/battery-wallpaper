@@ -189,7 +189,7 @@ usage() {
 	echo -e $G"Set desktop background according to battery percentage, with charging animation."
 	echo -e $Y"Developed By - Aditya Shakya (@adi1090x)"
 	echo
-	echo -e $B"usage: ./test.sh [-s] style [-d] delay [-h]"
+	echo -e $B"usage: bwall [-s] style [-d] delay [-h]"
 	echo
 	echo -e $M"-s  style     name of icon/bg style."
 	echo -e $M"-d  delay     set charging animation delay."
