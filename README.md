@@ -174,5 +174,5 @@ faded  industrial  mechanical  paper  pixel_city  slash  space
 
 ### FYI
 + If you can improve it, you're welcome.
-+ You can add ***bwall -s `style` &*** to your wm autostart file to set it as wallpaper after login.
++ You can add ***bwall -s style &*** to your wm autostart file to set it as wallpaper after login.
 + Have Fun!
