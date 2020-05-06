@@ -18,7 +18,7 @@
 
 Simple bash script to set an animated battery as desktop wallpaper. It's shows charging animation and changes according to battery percentage.
 
-![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charge.gif) <br />
+![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/leaves.gif) <br />
 
 ### How to install
 Follow the steps below (You can run `test.sh` to test it before installing it on your system) -
@@ -77,91 +77,112 @@ faded  industrial  mechanical  paper  pixel_city  slash  space
 
 ### Previews
 
-<details><summary>Charging</summary>
-
-|Cup|Paper|Cartoon|Faded|Colours|Slash|Industrial|
-|--|--|--|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/0/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/1/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/2/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/3/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/4/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/5/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/6/charge.gif)|
-
-|Egg|Mechanical|Bonsai|City|Pixel City|City Alt|Space|
-|--|--|--|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/7/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/8/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/9/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/10/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/13/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/12/charge.gif)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/11/charge.gif)|
-
-</details>
-
-<details><summary>Discharging</summary>
-
-`Cup`
-
-|0-20%|20-40%|40-60%|60-80%|80-100%|
-|--|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/0/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/0/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/0/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/0/4.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/0/5.png)|
-
-`Colours`
-
-|0-20%|20-40%|40-60%|60-80%|80-100%|
-|--|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/4/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/4/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/4/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/4/4.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/4/5.png)|
-
-`Slash`
-
-|0-20%|20-40%|40-60%|60-80%|80-100%|
-|--|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/5/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/5/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/5/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/5/4.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/5/5.png)|
-
-`Industrial`
-
-|0-20%|20-40%|40-60%|60-80%|80-100%|
-|--|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/6/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/6/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/6/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/6/4.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/6/5.png)|
-
-`Paper`
-
-|0-25%|25-50%|50-75%|75-100%|
-|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/1/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/1/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/1/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/1/4.png)|
-
-`Cartoon`
-
-|0-25%|25-50%|50-75%|75-100%|
-|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/2/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/2/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/2/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/2/4.png)|
-
-`Faded`
-
-|0-25%|25-50%|50-75%|75-100%|
-|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/3/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/3/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/3/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/3/4.png)|
-
-`Egg`
-
-|0-25%|25-50%|50-75%|75-100%|
-|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/7/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/7/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/7/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/7/4.png)|
-
-`Mechanical`
-
-|0-25%|25-50%|50-75%|75-100%|
-|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/8/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/8/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/8/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/8/4.png)|
+<details><summary>Click To View</summary>
 
 `Bonsai`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/bonsai.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/bonsai.png)|
 
-|0-20%|20-30%|30-40%|40-50%|50-60%|60-70%|70-80%|80-90%|90-100%|
-|--|--|--|--|--|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/9/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/9/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/9/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/9/4.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/9/5.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/9/6.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/9/7.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/9/8.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/9/9.png)|
+`Bar`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/bar.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/bar.png)|
 
-</details>
+`Cartoon`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/cartoon.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/cartoon.png)|
 
-<details><summary>Fully Charged</summary>
+`Charge`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/charge.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/charge.png)|
 
-|Cup|Paper|Cartoon|Faded|Colours|
-|--|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/0.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/1.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/2.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/3.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/4.png)|
+`Colours`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/colours.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/colours.png)|
 
-|Slash|Industrial|Egg|Mechanical|Bonsai|
-|--|--|--|--|--|
-|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/5.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/6.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/7.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/8.png)|![img](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/10.png)|
+`Cup Black`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/cup_black.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/cup_black.png)|
+
+`Cup Dark`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/cup_dark.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/cup_dark.png)|
+
+`Egg`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/egg.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/egg.png)|
+
+`Faded`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/faded.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/faded.png)|
+
+`Frame`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/frame.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/frame.png)|
+
+`Industrial`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/industrial.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/industrial.png)|
+
+`Leaves`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/leaves.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/leaves.png)|
+
+`Mechanical`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/mechanical.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/mechanical.png)|
+
+`Panel`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/panel.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/panel.png)|
+
+`Paper`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/paper.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/paper.png)|
+
+`Slash`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/slash.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/slash.png)|
+
+`Sweet`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/sweet.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/sweet.png)|
+
+`Space`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/space.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/space.png)|
+
+`Pixel City`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/pixel_city.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/pixel_city.png)|
+
+`City`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/city.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/city.png)|
+
+`City Alt`
+|Charging|Discharging|
+|-|-|
+|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/city_alt.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/city_alt.png)|
 
 </details>
 
