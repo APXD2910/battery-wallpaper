@@ -186,6 +186,36 @@ faded  industrial  mechanical  paper  pixel_city  slash  space
 
 </details>
 
+### Common Issues
+
+1. **Wallpaper not changing** : If your wallpaper is not changing, then open an issue and show me the output of `echo $DESKTOP_SESSION`.
+
+2. **Not working on XFCE** : If this script is not working on xfce, then open the terminal and run `xfconf-query -c xfce4-desktop -m` and change the wallpaper (any) via *xfce4-settings-manager*. <br />
+In terminal, *xfconf-query* will print lines starting with `set:`, which show which properties have been changed, check `screen` & `monitor` values and modify the script accordingly.
+```bash
+73   ## For XFCE
+74   if [[ "$OSTYPE" == "linux"* ]]; then
+75   	 SCREEN="0"
+76       MONITOR="1"
+77   fi
+
+```
+
+3. **Autostart** : If you want to autostart the script with desktop, you can add it to your WM autostart file & if doesn't work for you, you can create a `desktop file` in `$HOME/.config/autostart` dir.
+```bash
+$ cd $HOME/.config/autostart && touch bwall.desktop
+
+# Add this to dwall.desktop file
+
+[Desktop Entry]
+Name=Battery Wallpaper
+Comment=Set desktop background according to battery percentage, with charging animation.
+Exec=/usr/bin/bwall -s leaves &
+Type=Application
+Icon=wallpaper
+Categories=Accessories;
+```
+
 ### Support This Project
 <p align="left">
 <a href="https://www.paypal.me/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/paypal-adi1090x-blue?style=for-the-badge&logo=paypal"></a>
