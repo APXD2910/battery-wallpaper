@@ -23,7 +23,7 @@ Simple bash script to set an animated battery as desktop wallpaper. It's shows c
 ### How to install
 Follow the steps below (You can run `test.sh` to test it before installing it on your system) -
 
-+ Install *acpi*, *xrandr*, *feh* or *wallpaper* 
++ Install *acpi*, *xrandr(for xfce)*, *feh* or *wallpaper* 
 ```
 # On Archlinux
 sudo pacman -Sy acpi xorg-xrandr feh
