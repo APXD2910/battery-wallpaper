@@ -80,107 +80,107 @@ faded  industrial  mechanical  paper  pixel_city  slash  space
 <details><summary>Click To View</summary>
 
 `Bonsai`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/bonsai.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/bonsai.png)|
 
 `Bar`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/bar.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/bar.png)|
 
 `Cartoon`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/cartoon.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/cartoon.png)|
 
 `Charge`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/charge.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/charge.png)|
 
 `Colours`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/colours.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/colours.png)|
 
 `Cup Black`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/cup_black.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/cup_black.png)|
 
 `Cup Dark`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/cup_dark.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/cup_dark.png)|
 
 `Egg`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/egg.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/egg.png)|
 
 `Faded`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/faded.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/faded.png)|
 
 `Frame`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/frame.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/frame.png)|
 
 `Industrial`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/industrial.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/industrial.png)|
 
 `Leaves`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/leaves.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/leaves.png)|
 
 `Mechanical`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/mechanical.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/mechanical.png)|
 
 `Panel`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/panel.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/panel.png)|
 
 `Paper`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/paper.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/paper.png)|
 
 `Slash`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/slash.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/slash.png)|
 
 `Sweet`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/sweet.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/sweet.png)|
 
 `Space`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/space.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/space.png)|
 
 `Pixel City`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/pixel_city.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/pixel_city.png)|
 
 `City`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/city.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/city.png)|
 
 `City Alt`
-|Charging|Discharging|
+|Charging|Full|
 |-|-|
 |![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/charging/city_alt.gif)|![gif](https://raw.githubusercontent.com/adi1090x/battery-wallpaper/master/preview/full/city_alt.png)|
 
