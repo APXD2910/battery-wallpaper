@@ -56,7 +56,7 @@ Developed By - Aditya Shakya (@adi1090x)
 usage: bwall [-s] style [-d] delay [-h]
 
 -s  style     name of icon/bg style.
--d  delay     set charging animation delay.
+-d  delay     set charging animation delay (default 0.8s).
 -h  help      show this usage/help message.
 
 Styles Dir: /usr/share/battery-wallpaper/images
@@ -67,7 +67,7 @@ faded  industrial  mechanical  paper  pixel_city  slash  space
 
 ### Features
 
-+ 15 different types of battery wallpapers/icons.
++ 21 different types of battery wallpapers/icons.
 + Shows battery charging animation.
 + Stop animation when battery is fully charged.
 + When not charging, icon changes according to battery percentage.

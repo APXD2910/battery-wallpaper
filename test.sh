@@ -152,11 +152,11 @@ animate_wallpaper() {
 		for i in {1,2,4,6,8}; do
 			set_wallpaper $i; sleep "$DELAY"
 		done
-	elif [ "$STYLE" == "cup_black" ] || [ "$STYLE" == "cup_dark" ] || [ "$STYLE" == "industrial" ]; then
+	elif [ "$STYLE" == "cup_black" ] || [ "$STYLE" == "cup_dark" ] || [ "$STYLE" == "industrial" ] || [ "$STYLE" == "bar" ] || [ "$STYLE" == "charge" ] || [ "$STYLE" == "frame" ] || [ "$STYLE" == "sweet" ]; then
 		for i in {11,12,13,14,15}; do
 			set_wallpaper $i; sleep "$DELAY"
 		done
-	elif [ "$STYLE" == "egg" ]; then
+	elif [ "$STYLE" == "egg" ] || [ "$STYLE" == "leaves" ] || [ "$STYLE" == "panel" ]; then
 		for i in {11,12,13,14}; do
 			set_wallpaper $i; sleep "$DELAY"
 		done
@@ -192,7 +192,7 @@ usage() {
 	echo -e $B"usage: ./test.sh [-s] style [-d] delay [-h]"
 	echo
 	echo -e $M"-s  style     name of icon/bg style."
-	echo -e $M"-d  delay     set charging animation delay."
+	echo -e $M"-d  delay     set charging animation delay (default 0.8s)."
 	echo -e $M"-h  help      show this usage/help message."
 	echo
  	echo -e $C"Styles Dir: $DIR/images"
